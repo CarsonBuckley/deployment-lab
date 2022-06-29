@@ -1,0 +1,18 @@
+.poopjar {
+    border-radius: 100px;
+    width: 600px;
+    height: 400px;
+}
+
+.header {
+    display: flex;
+    align-content: center;
+}
+
+.inline {
+    display: flex;
+}
+
+.item-name {
+    align-self: center;
+}
